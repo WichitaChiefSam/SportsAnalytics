@@ -1,6 +1,0 @@
-# If 'devtools' isn't installed run
-# install.packages("devtools")
-
-# If 'nflscrapR' isn't installed run
-# devtools::install_github("maksimhorowitz/nflscrapR")
-devtools::install_github("mrcaseb/nflfastR")
